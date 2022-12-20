@@ -1,4 +1,4 @@
-# Execution_Time-C
+# Execution_Time-c
 
 This C program is used to measure the execution time of another program. It does so by using the clock() function from the time.h library to measure the time before and after the execution of the program. The time difference between the start and finish times is calculated and stored in the working_time variable.
 
